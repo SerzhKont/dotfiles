@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "Serzhkont"]
+	url = https://github.com/SerzhKont/neovim
+	fetch = +refs/heads/*:refs/remotes/Serzhkont/*
+[branch "main"]
+	remote = Serzhkont
+	merge = refs/heads/main

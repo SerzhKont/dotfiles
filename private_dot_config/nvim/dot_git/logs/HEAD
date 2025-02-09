@@ -1,0 +1,34 @@
+0000000000000000000000000000000000000000 d0cfa28d4be16bffc025fc44eb0ab03b774cf319 Serzh <serzhkont@proton.me> 1717314777 +0300	commit (initial): new neovim config
+d0cfa28d4be16bffc025fc44eb0ab03b774cf319 d0cfa28d4be16bffc025fc44eb0ab03b774cf319 Serzh <serzhkont@proton.me> 1717317598 +0300	reset: moving to HEAD
+d0cfa28d4be16bffc025fc44eb0ab03b774cf319 d0cfa28d4be16bffc025fc44eb0ab03b774cf319 Serzh <serzhkont@proton.me> 1717317921 +0300	rebase (start): checkout d0cfa28d4be16bffc025fc44eb0ab03b774cf319
+d0cfa28d4be16bffc025fc44eb0ab03b774cf319 fb8e7c1fa8443ae2cb1c31a9e3362b3d232dcd8f Serzh <serzhkont@proton.me> 1717317964 +0300	commit (amend): new neovim config
+fb8e7c1fa8443ae2cb1c31a9e3362b3d232dcd8f d0cfa28d4be16bffc025fc44eb0ab03b774cf319 Serzh <serzhkont@proton.me> 1717318274 +0300	checkout: moving from fb8e7c1fa8443ae2cb1c31a9e3362b3d232dcd8f to main
+d0cfa28d4be16bffc025fc44eb0ab03b774cf319 b490a4c4be8f110d97e60665482c41e1f74f1578 Serzh <serzhkont@proton.me> 1717318398 +0300	commit: lazygit
+b490a4c4be8f110d97e60665482c41e1f74f1578 d2ce5cd44e28306c30f73f498bad1b5610869e29 Serzh <serzhkont@proton.me> 1717320421 +0300	commit: add colorscheme
+d2ce5cd44e28306c30f73f498bad1b5610869e29 d2ce5cd44e28306c30f73f498bad1b5610869e29 Serzh <serzhkont@proton.me> 1717424352 +0300	reset: moving to HEAD
+d2ce5cd44e28306c30f73f498bad1b5610869e29 b490a4c4be8f110d97e60665482c41e1f74f1578 Serzh <serzhkont@proton.me> 1717424352 +0300	[lazygit undo]: updating HEAD
+b490a4c4be8f110d97e60665482c41e1f74f1578 ab94fd3ba1b2ca2f189796367ba581cc767c50f8 Serzh <serzhkont@proton.me> 1717425195 +0300	commit: config colors and added which-key
+ab94fd3ba1b2ca2f189796367ba581cc767c50f8 ab94fd3ba1b2ca2f189796367ba581cc767c50f8 Serzh <serzhkont@proton.me> 1717425243 +0300	checkout: moving from main to ab94fd3ba1b2ca2f189796367ba581cc767c50f8
+ab94fd3ba1b2ca2f189796367ba581cc767c50f8 ab94fd3ba1b2ca2f189796367ba581cc767c50f8 Serzh <serzhkont@proton.me> 1717425521 +0300	checkout: moving from ab94fd3ba1b2ca2f189796367ba581cc767c50f8 to main
+ab94fd3ba1b2ca2f189796367ba581cc767c50f8 ab94fd3ba1b2ca2f189796367ba581cc767c50f8 Serzh <serzhkont@proton.me> 1717425539 +0300	checkout: moving from main to ab94fd3ba1b2ca2f189796367ba581cc767c50f8
+ab94fd3ba1b2ca2f189796367ba581cc767c50f8 ab94fd3ba1b2ca2f189796367ba581cc767c50f8 Serzh <serzhkont@proton.me> 1717425575 +0300	checkout: moving from ab94fd3ba1b2ca2f189796367ba581cc767c50f8 to main
+ab94fd3ba1b2ca2f189796367ba581cc767c50f8 9fa4786fd25efa5301fd414d96d1b89fce518b60 Serzh <serzhkont@proton.me> 1717425766 +0300	commit: color+check
+9fa4786fd25efa5301fd414d96d1b89fce518b60 b490a4c4be8f110d97e60665482c41e1f74f1578 Serzh <serzhkont@proton.me> 1717425797 +0300	rebase (start): checkout b490a4c4be8f110d97e60665482c41e1f74f1578
+b490a4c4be8f110d97e60665482c41e1f74f1578 ab94fd3ba1b2ca2f189796367ba581cc767c50f8 Serzh <serzhkont@proton.me> 1717425797 +0300	rebase: fast-forward
+ab94fd3ba1b2ca2f189796367ba581cc767c50f8 69c2b63a1f4ded9a90019dea34fba374fb9f0f6f Serzh <serzhkont@proton.me> 1717425797 +0300	rebase (squash): config colors and added which-key
+69c2b63a1f4ded9a90019dea34fba374fb9f0f6f 69c2b63a1f4ded9a90019dea34fba374fb9f0f6f Serzh <serzhkont@proton.me> 1717425797 +0300	rebase (finish): returning to refs/heads/main
+69c2b63a1f4ded9a90019dea34fba374fb9f0f6f d0cfa28d4be16bffc025fc44eb0ab03b774cf319 Serzh <serzhkont@proton.me> 1717425813 +0300	rebase (start): checkout d0cfa28d4be16bffc025fc44eb0ab03b774cf319
+d0cfa28d4be16bffc025fc44eb0ab03b774cf319 b490a4c4be8f110d97e60665482c41e1f74f1578 Serzh <serzhkont@proton.me> 1717425813 +0300	rebase: fast-forward
+b490a4c4be8f110d97e60665482c41e1f74f1578 22ce637612a06346b53e350b60d40e6ab4cf5f09 Serzh <serzhkont@proton.me> 1717425813 +0300	rebase (squash): lazygit
+22ce637612a06346b53e350b60d40e6ab4cf5f09 22ce637612a06346b53e350b60d40e6ab4cf5f09 Serzh <serzhkont@proton.me> 1717425813 +0300	rebase (finish): returning to refs/heads/main
+22ce637612a06346b53e350b60d40e6ab4cf5f09 31a45a3e9a4182609d21dc7fecba17ccca700099 Serzh <serzhkont@proton.me> 1717425980 +0300	commit: color final
+31a45a3e9a4182609d21dc7fecba17ccca700099 3f8a52426e313a5395b608a192f33590d3bf8f54 Serzh <serzhkont@proton.me> 1717872686 +0300	commit: lsp config added
+3f8a52426e313a5395b608a192f33590d3bf8f54 3f8a52426e313a5395b608a192f33590d3bf8f54 Serzh <serzhkont@proton.me> 1717872722 +0300	checkout: moving from main to 3f8a52426e313a5395b608a192f33590d3bf8f54
+3f8a52426e313a5395b608a192f33590d3bf8f54 3f8a52426e313a5395b608a192f33590d3bf8f54 Serzh <serzhkont@proton.me> 1717872751 +0300	checkout: moving from 3f8a52426e313a5395b608a192f33590d3bf8f54 to main
+3f8a52426e313a5395b608a192f33590d3bf8f54 c769260f1250b9f1788e3a935bb0b341326687a4 Serzh <serzhkont@proton.me> 1724238823 +0300	commit: новый плагин null-ls и перенастройка which key
+c769260f1250b9f1788e3a935bb0b341326687a4 3ab97078dd092eaf3ade3aaa04408281355bf17d Serzh <serzhkont@proton.me> 1724254651 +0300	commit: дашбоард + автокомплит
+3ab97078dd092eaf3ade3aaa04408281355bf17d fb9ac41758952a04d249faa09a2007fe02a7d3c7 Serzh <serzhkont@proton.me> 1724430651 +0300	commit: added Solorgraph and Onmisharp
+fb9ac41758952a04d249faa09a2007fe02a7d3c7 8c38a265060e43bcc7c5e49548cb3a37e419a14e Serzh <serzhkont@proton.me> 1724611003 +0300	commit: new themes
+8c38a265060e43bcc7c5e49548cb3a37e419a14e 230cc973762457ec284153148ab92e00ef575d20 Serzh <serzhkont@proton.me> 1737883628 +0200	commit: lsp config
+230cc973762457ec284153148ab92e00ef575d20 7bf40c9350430a5921d53ae4e2408c13c3198274 Serzh <serzhkont@proton.me> 1738008676 +0200	commit: relative number
+7bf40c9350430a5921d53ae4e2408c13c3198274 06cea0a9860cc6525a168cc9761c08d929f5840a Serzh <serzhkont@proton.me> 1739028546 +0200	pull: Fast-forward
